@@ -3,7 +3,7 @@
 **Your Money** é um gerenciador de finanças pessoais desenvolvido para oferecer controle total sobre receitas e despesas com uma interface limpa, moderna e extremamente intuitiva.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/12d9e211-6d5f-40de-8c48-b948082fcee0" width="100%" controls autoplay loop muted>
+  <video src="https://github.com/gustavocoimbradev/your-money/raw/refs/heads/main/demo/video.mp4" width="100%" controls autoplay loop muted>
     Seu navegador não suporta a visualização de vídeos.
   </video>
 </div>
