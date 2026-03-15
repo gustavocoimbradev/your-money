@@ -6,38 +6,27 @@
 
 ### 📋 Pré-requisitos
 
-- **PHP 8.2+**
-- **Composer**
-- **Node.js & NPM**
+- **Docker**
 
 ### 🛠️ Passo a passo
 
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/gustavocoimbradev/your-money.git
-    cd your-money
+    git clone https://github.com/gustavocoimbradev/amora.git
+    cd amora
     ```
 
-2. **Como rodar localmente:**
+2. **Como rodar:**
 
     ```bash
-    composer run setup
-    composer run dev
+    docker compose up -d
     ```
 
 3. **Acesse o sistema:**
-   Após a execução, o gerenciador estará disponível em:
     ```bash
     http://localhost:8000
     ```
-
----
-
-## ✨ Funcionalidades
-
-- **Controle Financeiro:** Cadastro e monitoramento de entradas e saídas.
-- **Interface Responsiva:** Design otimizado para qualquer dispositivo utilizando Tailwind CSS.
 
 ---
 
@@ -45,7 +34,7 @@
 
 - **Backend:** [Laravel 12](https://laravel.com)
 - **Frontend:** [Vue.js 3](https://vuejs.org) / [Inertia.js](https://inertiajs.com)
-- **Estilização:** [Tailwind CSS](https://tailwindcss.com) 
+- **Estilização:** [Tailwind CSS](https://tailwindcss.com)
 - **Infraestrutura:** [Docker](https://www.docker.com) & [Docker Compose](https://docs.docker.com/compose/)
 
 ---
