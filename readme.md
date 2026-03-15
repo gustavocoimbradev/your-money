@@ -45,7 +45,7 @@
 
 - **Backend:** [Laravel 12](https://laravel.com)
 - **Frontend:** [Vue.js 3](https://vuejs.org) / [Inertia.js](https://inertiajs.com)
-- **Estilização:** [Tailwind CSS](https://tailwindcss.com) (Foco em UI/UX limpa)
+- **Estilização:** [Tailwind CSS](https://tailwindcss.com) 
 - **Infraestrutura:** [Docker](https://www.docker.com) & [Docker Compose](https://docs.docker.com/compose/)
 
 ---
